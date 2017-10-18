@@ -12,7 +12,7 @@
  */
 
 
-public class MiniTwitter {
+public class miniTwitter {
     public MiniTwitter() {
         // do intialization if necessary
     }
