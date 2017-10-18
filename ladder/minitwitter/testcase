@@ -1,0 +1,7 @@
+postTweet(1, "LintCode is Good!!!")
+getNewsFeed(1)
+getTimeline(1)
+follow(2, 1)
+getNewsFeed(2)
+unfollow(2, 1)
+getNewsFeed(2)
